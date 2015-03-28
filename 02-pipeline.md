@@ -96,7 +96,7 @@ $
 As we can see, R prints its whole initial greeting, then the command
 prompt, reads the file for reading the command (which is empty), and
 then terminates. It'd be better if the greeting and command prompt
-didn't get printed to the terminal, because we already we won't be
+didn't get printed to the terminal, because we already know we won't be
 typing anything at the prompt. In other words, we'd like R to be a
 little "smarter" about reading commands from a file. For this, R has a
 `BATCH` command mode:
