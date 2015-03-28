@@ -12,7 +12,7 @@ pipelines that can be repeated, modified, and built upon.
 
 <div class="toc" markdown="1">
 
-1.  [Shell Scripts](01-script.html)
-3.  [Data pipelines](02-pipeline.html)
+1. [Shell Scripts](01-script.html)
+2. [Data pipelines](02-pipeline.html)
 
 </div>
